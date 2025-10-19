@@ -6,6 +6,7 @@ The goal is to simulate a realistic end-to-end data science workflow — from ba
 
 
 Task Breakdown:
+
 Task 1 – Python Basics & Logic
 Introduces core Python programming skills, including:
 Variables, lists, loops, and conditional statements
