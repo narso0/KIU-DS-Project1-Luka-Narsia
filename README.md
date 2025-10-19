@@ -1,5 +1,6 @@
 # KIU-DS-Project1-Luka-Narsia
 First project for Data Science class
+
 Project Description:
 This project demonstrates key Python and NumPy fundamentals through three progressive tasks that build up from basic programming concepts to applied data analysis.
 The goal is to simulate a realistic end-to-end data science workflow — from basic Python operations to generating, cleaning, and analyzing synthetic health and fitness data.
